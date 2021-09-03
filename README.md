@@ -20,7 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaStark7&show_icons=true&locale=en" alt="AdityaStark7" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archishmansengupta&" alt="archishmansengupta" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaStark7&" alt="AdityaStark7" /></p>
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
