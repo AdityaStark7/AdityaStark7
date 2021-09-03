@@ -16,8 +16,11 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaStark7&show_icons=true&locale=en&layout=compact" alt="Aditya" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaStark7&show_icons=true&locale=en" alt="Aditya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaStark7&show_icons=true&locale=en&layout=compact" alt="AdityaStark7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaStark7&show_icons=true&locale=en" alt="AdityaStark7" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archishmansengupta&" alt="archishmansengupta" /></p>
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
