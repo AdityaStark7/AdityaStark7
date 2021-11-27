@@ -29,9 +29,8 @@
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{adityastark07}/notebook/light) --> 
 
 
-<p align="center">
+<p align="center">  
     ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adityastark07/competition)
-
     ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adityastark07/notebook)
 
 </p>
