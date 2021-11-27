@@ -22,11 +22,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=AdityaStark7&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaStark7&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
-</a>
+ </a>
 
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{adityastark07}/notebook)
+<!-- ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{adityastark07}/notebook)
 
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{adityastark07}/notebook/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{adityastark07}/notebook/light) --> 
 
 
 <div align="center">
