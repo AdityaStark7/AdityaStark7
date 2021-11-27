@@ -24,6 +24,10 @@
 </p>
 </a>
 
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{Aditya Stark}/notebook)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{Aditya Stark}/notebook/light)
+
+
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
