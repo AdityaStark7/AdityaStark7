@@ -24,8 +24,9 @@
 </p>
 </a>
 
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{Aditya Stark}/notebook)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{Aditya Stark}/notebook/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{adityastark07}/notebook)
+
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{adityastark07}/notebook/light)
 
 
 <div align="center">
