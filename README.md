@@ -28,6 +28,9 @@
 
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{adityastark07}/notebook/light) --> 
 
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{adityastark07}/competition/light)
+
+
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
